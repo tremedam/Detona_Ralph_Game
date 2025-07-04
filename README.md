@@ -8,9 +8,7 @@ Um projeto de HTML, CSS e JavaScript inspirado no filme **Detona Ralph**. O obje
 
 Veja o site funcionando através do GitHub Pages:
 
-[![Deploy](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/pages.yml/badge.svg)](https://SEU_USUARIO.github.io/SEU_REPOSITORIO/)
-
-> Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelo seu usuário e repositório do GitHub.
+[![Detona Ralph game](https://tremedam.github.io/Detona_Ralph_Game/)](https://tremedam.github.io/Detona_Ralph_Game/)
 
 ## Funcionalidades
 
